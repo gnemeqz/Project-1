@@ -6,9 +6,7 @@ Develop by Detchanin Thongarsa
 - product.py
 
 ## Example Code
-``` <javascript>
-    alert('ok');
-</javascript> ```
+` <javascript>  alert('ok'); </javascript> `
 
 ## Credit
 [link]detchanin@hotmail.com
