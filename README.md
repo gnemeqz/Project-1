@@ -6,7 +6,7 @@ Develop by Detchanin Thongarsa
 - product.py
 
 ## Example Code
-` <javascript>  alert('ok'); </javascript> `
+`print('manin menu')`
 
 ## Credit
 [link]detchanin@hotmail.com
