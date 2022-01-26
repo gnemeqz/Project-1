@@ -9,7 +9,7 @@ Develop by Detchanin Thongarsa
 `print('manin menu')`
 
 ## Credit
-[link]detchanin@hotmail.com
+[link] detchanin@hotmail.com
 
 ## License
 AIS license
