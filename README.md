@@ -1,17 +1,17 @@
-#Project#1
+# Project1
 Develop by Detchanin Thongarsa
 
-##Files
+## Files
 - menu.py
 - product.py
 
-##Example Code
-```<javascript>
+## Example Code
+``` <javascript>
     alert('ok');
-</javascript>```
+</javascript> ```
 
-##Credit
+## Credit
 [link]detchanin@hotmail.com
 
-##License
+## License
 AIS license
